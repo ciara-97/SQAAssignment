@@ -1,3 +1,4 @@
+package codingConventions;
 
 public interface SampleInterface {
 
