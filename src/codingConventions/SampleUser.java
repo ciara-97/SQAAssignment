@@ -1,3 +1,4 @@
+package codingConventions;
 /**
  * This class defines a user and what variables need to 
  * be defined for a user. 
