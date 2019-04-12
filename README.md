@@ -11,4 +11,4 @@ To familiarize yourself with how test cases are run and work, we suggest you cha
 for the failing result - i.e. a red bar indicating the test was not successful.
 
 ## Author
-* ** Ciara Ryan
+* Ciara Ryan
